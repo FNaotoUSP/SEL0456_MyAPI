@@ -1,5 +1,5 @@
 # SEL0456_MyAPI
-API usando arquivo jason como input
+API usando arquivo json como input
 
 Para funcionar são necessários dois terminais rodnado simultaneamente.
 - O primeiro deve rodar o arquivo python "main_flask.py";
